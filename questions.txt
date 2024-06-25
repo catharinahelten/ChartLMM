@@ -1,0 +1,17 @@
+Whats the average value?
+Which colors are used?
+Is the chart horizontal?
+Is the chart vertical?
+Is the chart a bar chart?
+Is the chart a line chart?
+Is the chart a pie chart?
+Whats the highest value?
+Whats the lowest value?
+Whats the title of the chart?
+Which language is used?
+Are values in percent?
+Are values in absolute?
+Whats on the x axis?
+Whats on the y axis?
+Which information is coded in the colors?
+Whats the topic of the chart?
